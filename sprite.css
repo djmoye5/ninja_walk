@@ -10,6 +10,6 @@ body{
     display: inline-block; */
     width: 160px;
     height: 160px;
-    background: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fs.cdpn.io%2F13060%2Fninja-sprite.png&imgrefurl=https%3A%2F%2Fcodepen.io%2Fsiiron%2Fpen%2FaNbWJw&docid=IhqI2Zw3DP87CM&tbnid=YzGDrxwHKELV2M%3A&vet=10ahUKEwi8_4nazJbfAhVGhuAKHSV8AuEQMwhAKAMwAw..i&w=1280&h=160&bih=706&biw=1536&q=css%20ninja%20sprites&ved=0ahUKEwi8_4nazJbfAhVGhuAKHSV8AuEQMwhAKAMwAw&iact=mrc&uact=8) 0 0;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/13060/ninja-sprite.png) 0 0;
 }
 
