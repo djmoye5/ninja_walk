@@ -10,7 +10,7 @@ function ninjaWalk() {
   const diff = 160
 
 tID = setInterval(() => {
-  document.getElementById("withNinja").style.backgroundPosition +=
+  document.getElementById("withNinja").style.backgroundPosition =
   `-${position}px 0px`;
   if (position < 1280) {
       position = position + diff;
