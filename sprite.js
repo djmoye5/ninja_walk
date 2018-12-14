@@ -21,4 +21,13 @@ tID = setInterval(() => {
 }, interval);
 }
 
+function speedAnimations(){
+    var currentSpeed = ninjaWalk.playbackRate;
+    ninjaWalk.playbackRate = currentSpeed * speeden;
+}
+
+function slowAnimations(){
+    var currentSpeed = ninjaWalk.playbackRate;
+    ninjaWalk.playbackRate = currentSpeed * slowen;
+}
 
